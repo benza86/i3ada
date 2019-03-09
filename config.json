@@ -7,6 +7,55 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
+	       {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCen_nkxeuySf9qTX_zahZHw",
+          "channel"
+        ]
+      },  
+	                   {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCYrWutKQxjIh-_EKtNNBdjg",
+          "channel"
+        ]
+      },  
+	              {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCBdejLBeGz9nD9H315Bjscw",
+          "channel"
+        ]
+      },  
+	          {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCLT0U-qIpN71Nruvxg5jKhA",
+          "channel"
+        ]
+      },  
+	    {
+        "title":"اخبار كرة القدم ",
+        "provider":"youtube",
+        "arguments":[
+          "UCmaIVdaP1KfKWtvOw6eDe0A",
+          "channel"
+        ]
+      },        
+	
+	   {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCvryFb36DHoWl8k3StLyKlw",
+          "channel"
+        ]
+      }, 
 	          {
         "title":"الاهداف و الملخصات",
         "provider":"youtube",
